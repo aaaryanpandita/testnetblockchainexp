@@ -5,9 +5,9 @@ async function headers() {
     'script-src-elem \'self\' \'unsafe-inline\' cdn.jsdelivr.net cdnjs.cloudflare.com',
     'style-src \'self\' \'unsafe-inline\' fonts.gstatic.com fonts.googleapis.com cdn.jsdelivr.net cdnjs.cloudflare.com',
     'img-src \'self\' data: https: http://localhost:8083 http://api-nowatoken.tarality.io blob:',
-    'font-src \'self\' fonts.gstatic.com cdn.jsdelivr.net cdnjs.cloudflare.com data:',  
-    'worker-src \'self\' blob: data: cdn.jsdelivr.net', 
-    'child-src \'self\' blob: data:', 
+    'font-src \'self\' fonts.gstatic.com cdn.jsdelivr.net cdnjs.cloudflare.com data:',
+    'worker-src \'self\' blob: data: cdn.jsdelivr.net',
+    'child-src \'self\' blob: data:',
     [
       'connect-src \'self\'',
       'https://api.anthropic.com',
@@ -15,6 +15,8 @@ async function headers() {
       'https://apiexplorer.nowa.finance',
       'https://explorer.nowa.finance',
       'wss://apiexplorer.nowa.finance',
+      'http://172.16.16.58:4000',
+      'ws://172.16.16.58:4000',
       'https://infragrid.v.network',
       'http://localhost:8083',
       'https://api-nowatoken.tarality.io',
@@ -29,13 +31,13 @@ async function headers() {
       'https://delegated-ipfs.dev',
       'https://trustless-gateway.link',
       'cdn.jsdelivr.net',
-      'cdnjs.cloudflare.com',  
+      'cdnjs.cloudflare.com',
       'static.cloudflareinsights.com',
-      'blob:', 
-      'data:', 
+      'blob:',
+      'data:',
     ].join(' '),
   ].join('; ');
-  
+
   return [
     {
       source: '/:path*',
@@ -58,10 +60,10 @@ async function headers() {
         },
         {
           key: 'Cross-Origin-Opener-Policy',
-          value: 'same-origin-allow-popups', 
+          value: 'same-origin-allow-popups',
         },
         {
-          key: 'Cross-Origin-Embedder-Policy',  
+          key: 'Cross-Origin-Embedder-Policy',
           value: 'credentialless',
         },
         {
