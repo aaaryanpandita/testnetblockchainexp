@@ -57,6 +57,8 @@ if [ "$NEXT_PUBLIC_APP_ENV" != "pw" ]; then
     mv $target_dir/sprite.svg "$target_dir/sprite.${HASH}.svg"
 
     export NEXT_PUBLIC_ICON_SPRITE_HASH=${HASH}
+    grep -q "NEXT_PUBLIC_ICON_SPRITE_HASH" .env 2>/dev/null && sed -i '/NEXT_PUBLIC_ICON_SPRITE_HASH/d' .env
+    echo "NEXT_PUBLIC_ICON_SPRITE_HASH=${HASH}" >> .env
 
     # Skip registry creation in development environment
     # just to make the dev build faster

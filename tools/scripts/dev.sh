@@ -9,6 +9,7 @@ rm -rf ./public/assets/envs.js
 dotenv \
   -e .env.development.local \
   -e .env.local \
+  -e .env.production \
   -e .env.development \
   -e .env \
   -- bash -c './deploy/scripts/download_assets.sh ./public/assets/configs'
@@ -33,6 +34,7 @@ dotenv \
   -e .env.development.local \
   -e .env.local \
   -e .env.development \
+  -e .env.production \
   -e .env \
   -- bash -c './deploy/scripts/make_envs_script.sh && next dev  -p ${NEXT_PUBLIC_APP_PORT:-3000}' |
 pino-pretty

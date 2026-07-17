@@ -1,0 +1,1041 @@
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempoDevnet.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from 172.16.16.58 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from testnet.nowa.finance to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempoDevnet.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ Cross origin request detected from testnet.nowa.finance to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempoDevnet.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages-manifest.json'
+}
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+ ⚠ ./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/server/pages/_document.js'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json',
+  page: '/'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+    at async (.next/server/chunks/5781.js:1:1902) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/routes-manifest.json'
+}
+[Error: ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/explorer/testnetblockchainexp/.next/fallback-build-manifest.json'
+}
+ ⚠ "next start" does not work with "output: standalone" configuration. Use "node .next/standalone/server.js" instead.
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Failed to load static file for page: /404 ENOENT: no such file or directory, open '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/pages/404.html']
+ ⨯ [Error: Cannot find module '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/middleware-manifest.json'
+Require stack:
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next-server.js
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next.js
+- /home/explorer/testnetblockchainexp/.next/standalone/server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ [Error: Cannot find module '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/middleware-manifest.json'
+Require stack:
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next-server.js
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next.js
+- /home/explorer/testnetblockchainexp/.next/standalone/server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ [Error: Cannot find module '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/middleware-manifest.json'
+Require stack:
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next-server.js
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next.js
+- /home/explorer/testnetblockchainexp/.next/standalone/server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ [Error: Cannot find module '/home/explorer/testnetblockchainexp/.next/standalone/.next/server/middleware-manifest.json'
+Require stack:
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next-server.js
+- /home/explorer/testnetblockchainexp/.next/standalone/node_modules/next/dist/server/next.js
+- /home/explorer/testnetblockchainexp/.next/standalone/server.js] {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
