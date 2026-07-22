@@ -8,7 +8,8 @@ export default async function handler(
   const { limit = '10', key } = req.query;
 
   try {
-    let url = `https://grpc-node1.nowa.finance/cosmos/staking/v1beta1/validators?pagination.limit=${limit}`;
+    let url = `https://t1api.nowa.finance/cosmos/staking/v1beta1/validators?pagination.limit=${limit}`;
+
     
     if (key && typeof key === 'string') {
       url += `&pagination.key=${encodeURIComponent(key)}`;
