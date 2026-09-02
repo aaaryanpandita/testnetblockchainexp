@@ -123,10 +123,11 @@ const SearchBarInput = (
       zIndex={ isSuggestOpen ? 'modal' : 'auto' }
       { ...rest }
     >
-      <InputGroup
-        startElement={ startElement }
-        endElement={ endElement }
-      >
+    	<InputGroup
+  	startElement={ startElement }
+  	endElement={ endElement }
+  	startOffset="40px"
+	>
         <Input
           size={{ base: isHeroBanner ? 'md' : 'sm', lg: 'md' }}
           placeholder={ getPlaceholder() }

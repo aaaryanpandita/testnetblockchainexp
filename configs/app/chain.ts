@@ -20,7 +20,7 @@ const verificationType: NetworkVerificationType = (() => {
 })();
 
 // Hardcoded RPC URL
-const rpcUrls = ['https://node1.nowa.finance'];
+const rpcUrls = ['https://tnode2.nowa.finance'];
 
 const chain = Object.freeze({
   id: '262144',

@@ -2178,3 +2178,52 @@ SVG sprite created: sprite.af95db34.svg
 
  ✓ Starting...
  ✓ Ready in 612ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 637ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 586ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 644ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 609ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 691ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 557ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 623ms
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 652ms
+{"level":30,"time":1787366755910,"pid":2384178,"hostname":"tnowaexplorer","message":"API fetch via Next.js proxy","url":"https://testnetbackend.nowa.finance/api/proxy"}

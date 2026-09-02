@@ -6,3 +6,5 @@ export interface InputProps extends Omit<ChakraInputProps, 'size'> {
 }
 
 export const Input = ChakraInput;
+Input.displayName = 'FieldInput';
+

@@ -1,0 +1,191 @@
+nohup: ignoring input
+
+> blockscout-frontend@1.0.0 build:next
+> ./deploy/scripts/download_assets.sh ./public/assets/configs && yarn svg:build-sprite && ./deploy/scripts/make_envs_script.sh && next build
+
+
+⬇️  Downloading external assets...
+   [.] NEXT_PUBLIC_MARKETPLACE_CONFIG_URL: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_MARKETPLACE_CATEGORIES_URL: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_MARKETPLACE_BANNER_CONTENT_URL: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_MARKETPLACE_GRAPH_LINKS_URL: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_FEATURED_NETWORKS: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_FOOTER_LINKS: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_NETWORK_LOGO: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_NETWORK_LOGO_DARK: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_NETWORK_ICON: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_NETWORK_ICON_DARK: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_OG_IMAGE_URL: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_ADDRESS_3RD_PARTY_WIDGETS_CONFIG_URL: Variable is not set. Skipping download.
+   [.] NEXT_PUBLIC_ZETACHAIN_SERVICE_CHAINS_CONFIG_URL: Variable is not set. Skipping download.
+✅ Done.
+
+yarn run v1.22.22
+$ ./deploy/scripts/build_sprite.sh
+$ /home/explorer/testnetblockchainexp/node_modules/.bin/icons build -i ./icons -o ./public/icons --optimize
+/home/explorer/testnetblockchainexp/package.json
+┌  Icons CLI
+│
+●  Generated 207 icons
+SVG sprite created: sprite.af95db34.svg
+Done in 3.63s.
+🌀 Creating client script with ENV values...
+✅ Done.
+   ▲ Next.js 15.5.9
+   - Environments: .env.production, .env
+   - Experiments (use with caution):
+     · staleTimes
+
+   Skipping validation of types
+   Skipping linting
+   Creating an optimized production build ...
+ ⚠ Compiled with warnings in 92s
+
+./node_modules/@lifi/sdk/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@lifi/sdk/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@lifi/sdk/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@lifi/sdk/node_modules/ox/_esm/tempo/index.js
+./node_modules/@lifi/sdk/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@lifi/sdk/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@lifi/sdk/node_modules/viem/_esm/chains/index.js
+./node_modules/@lifi/sdk/src/_esm/core/EVM/publicClient.js
+./node_modules/@lifi/sdk/src/_esm/core/EVM/checkPermitSupport.js
+./node_modules/@lifi/sdk/src/_esm/index.js
+./node_modules/@lifi/widget/dist/esm/index.js
+./ui/marketplace/essentialDapps/swap/Swap.tsx
+./ui/pages/MarketplaceEssentialDapp.tsx
+
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+Critical dependency: the request of a dependency is an expression
+
+Import trace for requested module:
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/internal/virtualMasterPool.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/VirtualMaster.js
+./node_modules/@reown/appkit/node_modules/ox/_esm/tempo/index.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/tempo/chainConfig.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/definitions/tempo.js
+./node_modules/@reown/appkit/node_modules/viem/_esm/chains/index.js
+./node_modules/@reown/appkit/dist/esm/src/networks/index.js
+./node_modules/@reown/appkit/dist/esm/src/utils/HelpersUtil.js
+./node_modules/@reown/appkit/dist/esm/src/utils/index.js
+./node_modules/@reown/appkit/dist/esm/exports/react.js
+./ui/shared/Web3ModalProvider.tsx
+
+   Collecting page data ...
+   Generating static pages (0/7) ...
+   Generating static pages (1/7) 
+   Generating static pages (3/7) 
+   Generating static pages (5/7) 
+ ✓ Generating static pages (7/7)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (pages)                                          Size  First Load JS
+┌ ƒ /                                               23.8 kB        1.12 MB
+├   /_app                                               0 B         993 kB
+├ ○ /404 (8156 ms)                                    562 B         998 kB
+├ ƒ /account/api-key                                  444 B         998 kB
+├ ƒ /account/custom-abi                               446 B         998 kB
+├ ƒ /account/merits                                   445 B         998 kB
+├ ƒ /account/tag-address                              472 B         998 kB
+├ ƒ /account/verified-addresses                       481 B         998 kB
+├ ƒ /account/watchlist                                473 B         998 kB
+├ ƒ /accounts                                         514 B         998 kB
+├ ƒ /accounts/label/[slug]                            472 B         998 kB
+├ ƒ /address/[hash]                                 70.4 kB        1.93 MB
+├   └ css/5a41ab2e27850fe1.css                        480 B
+├ ƒ /address/[hash]/contract-verification             895 B        1.03 MB
+├ ƒ /advanced-filter                                  389 B        1.05 MB
+├ ƒ /api-docs                                         467 B         998 kB
+├ ƒ /api/config                                         0 B         993 kB
+├ ƒ /api/csrf                                           0 B         993 kB
+├ ƒ /api/healthz                                        0 B         993 kB
+├ ƒ /api/log                                            0 B         993 kB
+├ ƒ /api/media-type                                     0 B         993 kB
+├ ƒ /api/metrics                                        0 B         993 kB
+├ ƒ /api/monitoring/invalid-api-schema                  0 B         993 kB
+├ ƒ /api/proxy                                          0 B         993 kB
+├ ƒ /api/validators                                     0 B         993 kB
+├ ƒ /apps                                             459 B         998 kB
+├ ƒ /apps/[id]                                        757 B         998 kB
+├ ƒ /auth/profile                                   3.59 kB           1 MB
+├ ○ /batche (8154 ms)                                 652 B         998 kB
+├ ○ /batche/[batchNumber] (8155 ms)                 3.75 kB         997 kB
+├ ○ /batche/blockscout_base (8154 ms)                 426 B         993 kB
+├ ƒ /batches                                          630 B         998 kB
+├ ƒ /batches/[number]                                 671 B         998 kB
+├ ƒ /batches/celestia/[height]/[commitment]           641 B         998 kB
+├ ƒ /block/[height_or_hash]                           518 B         998 kB
+├ ƒ /block/countdown                                  451 B         998 kB
+├ ƒ /block/countdown/[height]                         479 B         998 kB
+├ ƒ /blocks                                           520 B         998 kB
+├ ƒ /cc/tx/[hash]                                     465 B         998 kB
+├ ƒ /chain/[chain_slug]/accounts/label/[slug]         497 B         998 kB
+├ ƒ /chain/[chain_slug]/advanced-filter               421 B        1.05 MB
+├ ƒ /chain/[chain_slug]/block/[height_or_hash]        532 B         998 kB
+├ ƒ /chain/[chain_slug]/block/countdown               483 B         998 kB
+├ ƒ /chain/[chain_slug]/block/countdown/[height]      504 B         998 kB
+├ ƒ /chain/[chain_slug]/csv-export                    391 B        1.01 MB
+├ ƒ /chain/[chain_slug]/op/[hash]                     544 B         998 kB
+├ ƒ /chain/[chain_slug]/token/[hash]                  582 B         998 kB
+├ ƒ /chain/[chain_slug]/token/[hash]/instance/[id]    563 B         998 kB
+├ ƒ /chain/[chain_slug]/tx/[hash]                     561 B         998 kB
+├ ƒ /chain/[chain_slug]/visualize/sol2uml           2.37 kB        1000 kB
+├ ƒ /chakra                                         31.8 kB        1.52 MB
+├ ƒ /contract-verification                            528 B        1.03 MB
+├ ƒ /csv-export                                       362 B        1.01 MB
+├ ƒ /deposits                                         658 B         998 kB
+├ ƒ /dispute-games                                    471 B         998 kB
+├ ƒ /epochs                                           462 B         998 kB
+├ ƒ /epochs/[number]                                  488 B         998 kB
+├ ƒ /essential-dapps/[id]                             550 B         998 kB
+├ ƒ /gas-tracker                                      473 B         998 kB
+├ ƒ /internal-txs                                     519 B         998 kB
+├ ƒ /interop-messages                                 468 B         998 kB
+├ ƒ /login                                          2.41 kB        1000 kB
+├ ƒ /mud-worlds                                       465 B         998 kB
+├ ƒ /name-services                                    480 B         998 kB
+├ ƒ /name-services/clusters/[name]                    462 B         998 kB
+├ ƒ /name-services/domains/[name]                     494 B         998 kB
+├ ƒ /op/[hash]                                        515 B         998 kB
+├ ƒ /operation/[id]                                   475 B         998 kB
+├ ƒ /operations                                       463 B         998 kB
+├ ƒ /ops                                              510 B         998 kB
+├ ƒ /output-roots                                     470 B         998 kB
+├ ƒ /pools                                            459 B         998 kB
+├ ƒ /pools/[hash]                                     450 B         998 kB
+├ ○ /property-batches (8154 ms)                     3.86 kB         997 kB
+├ ƒ /public-tags/submit                             8.06 kB        1.02 MB
+├ ƒ /search-results                                   615 B         998 kB
+├ ƒ /sprite                                         5.13 kB           1 MB
+├ ƒ /stats                                          12.6 kB        1.08 MB
+├ ƒ /stats/[id]                                       588 B         998 kB
+├ ƒ /token-transfers                                  550 B         998 kB
+├ ƒ /token/[hash]                                   10.2 kB        1.82 MB
+├ ƒ /token/[hash]/instance/[id]                     7.23 kB        1.53 MB
+├ ƒ /tokens                                           525 B         998 kB
+├ ƒ /tx/[hash]                                        543 B         998 kB
+├ ƒ /txn-withdrawals                                  540 B         998 kB
+├ ƒ /txs                                              561 B         998 kB
+├ ƒ /txs/kettle/[hash]                                500 B         998 kB
+├ ƒ /uptime                                         5.38 kB        1.06 MB
+├ ○ /validator (8154 ms)                            4.48 kB         997 kB
+├ ƒ /validators                                       600 B         998 kB
+├ ƒ /validators/[id]                                  532 B         998 kB
+├ ƒ /verified-contracts                               527 B         998 kB
+├ ƒ /visualize/sol2uml                              2.34 kB        1000 kB
+└ ƒ /withdrawals                                      664 B         998 kB
++ First Load JS shared by all                        993 kB
+  ├ chunks/framework-04514a0c5b05a2df.js            57.8 kB
+  ├ chunks/main-8bbd5f5c64d93e2a.js                   40 kB
+  ├ chunks/pages/_app-4e1d9c44d9f93f01.js            888 kB
+  └ other shared chunks (total)                     7.75 kB
+
+ƒ Middleware                                        47.8 kB
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+
