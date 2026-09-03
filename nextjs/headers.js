@@ -10,10 +10,11 @@ async function headers() {
     'child-src \'self\' blob: data:',
     [
       'connect-src \'self\'',
+      'https://tnode2.nowa.finance',
       'https://api.anthropic.com',
       'https://prover.nowa.finance',
       'https://apiexplorer.nowa.finance',
-      'https://explorer.nowa.finance',
+      'https://testnet.nowa.finance',
       'wss://apiexplorer.nowa.finance',
       'https://testnetbackend.nowa.finance',
       'wss://testnetbackend.nowa.finance',

@@ -3,12 +3,7 @@ import { getEnvValue } from './utils';
 const appPort = getEnvValue('NEXT_PUBLIC_APP_PORT');
 const appSchema = getEnvValue('NEXT_PUBLIC_APP_PROTOCOL');
 const appHost = getEnvValue('NEXT_PUBLIC_APP_HOST');
-const baseUrl = [
-  appSchema || 'https',
-  '://',
-  appHost,
-  appPort && ':' + appPort,
-].filter(Boolean).join('');
+const baseUrl = 'https://testnet.nowa.finance';
 const isDev = getEnvValue('NEXT_PUBLIC_APP_ENV') === 'development';
 const isReview = getEnvValue('NEXT_PUBLIC_APP_ENV') === 'review';
 const isPw = getEnvValue('NEXT_PUBLIC_APP_INSTANCE') === 'pw';
@@ -26,4 +21,5 @@ const app = Object.freeze({
   spriteHash,
 });
 
+console.log('🌐 APP BASE URL DEBUG:', baseUrl);
 export default app;
