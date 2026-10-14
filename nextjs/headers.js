@@ -13,7 +13,7 @@ async function headers() {
       'https://tnode2.nowa.finance',
       'https://api.anthropic.com',
       'https://prover-api-testnet.nowa.finance',
-      'https://apiexplorer.nowa.finance',
+      'https://testnetbackend.nowa.finance/',
       'https://testnet.nowa.finance',
       'wss://apiexplorer.nowa.finance',
       'https://testnetbackend.nowa.finance',
