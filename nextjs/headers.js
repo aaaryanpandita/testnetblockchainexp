@@ -12,7 +12,7 @@ async function headers() {
       'connect-src \'self\'',
       'https://tnode2.nowa.finance',
       'https://api.anthropic.com',
-      'https://prover.nowa.finance',
+      'https://prover-api-testnet.nowa.finance',
       'https://apiexplorer.nowa.finance',
       'https://testnet.nowa.finance',
       'wss://apiexplorer.nowa.finance',

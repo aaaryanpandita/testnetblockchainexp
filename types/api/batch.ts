@@ -35,7 +35,7 @@ interface PaginatedBatchesResponse {
   total_pages: number;
 }
 
-export const BASE_URL = "https://prover.nowa.finance";
+export const BASE_URL = "https://prover-api-testnet.nowa.finance";
 
 // Helper function to convert numeric status to string
 function getStatusString(status: number | string): string {

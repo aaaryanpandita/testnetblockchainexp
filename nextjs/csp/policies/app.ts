@@ -44,7 +44,7 @@ export function app(): CspDev.DirectiveDescriptor {
       // chain RPC server
       ...config.chain.rpcUrls,
       // prover service used by property batches UI
-      'https://prover.nowa.finance',
+      'https://prover-api-testnet.nowa.finance',
       'https://infragrid.v.network', // RPC providers
 
       // token API
